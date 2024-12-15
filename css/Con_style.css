@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+    nav{
+        display: flex;
+        justify-content: space-between;
+        padding: 30px;
+        background-color: #333;
+    }
+
+.logo a{
+    color: white;
+}
+.content h3{
+    color: white;
+}
+
+aside{
+    width: 20%;
+    height: 700px;
+  background-color: blanchedalmond;
+  
+}
+
+.Con-menu li a{
+    justify-content: center;
+    text-decoration: none;
+}
+.menu h2{
+    justify-content: center;
+    text-align: center;
+}

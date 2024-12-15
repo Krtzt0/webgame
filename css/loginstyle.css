@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #878686;
+}
+
+.form{
+    max-width: 430px;
+    width: 100%;
+    padding: 30px;
+    border-radius: 6px;
+    background: #fff;
+}
+
+header{
+    font-size: 28;
+    font-weight: 600;
+    color: black;
+    text-align: center;
+}
+
+form{
+    margin-top: 30px;
+}
+
+form .field{
+    height: 100%;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.field input{
+    height: 100%;
+    width: 100%;
+}
